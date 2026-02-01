@@ -16,3 +16,4 @@ gradio
 crewai
 crewai_tools
 neo4j
+groq
